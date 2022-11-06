@@ -1,0 +1,25 @@
+#ifndef BAHASA_BATAK_H_INCLUDED
+#define BAHASA_BATAK_H_INCLUDED
+
+#define mula { //awal
+#define pudi } //akhir
+#define buhai() main() //mulai
+#define dipabolas cout //tampil
+#define pamasuk cin //masuk
+#define molo if //jika
+#define asingni else //selain
+#define vektor vector //vector
+#define manahan system("pause") //tahan
+#define pinda endl //pindah baris
+#define ndang_marisi void //kosong
+#define ulas for //ulang
+#define nomor int //bilangan bulat
+#define mulak return //kembali
+#define manang or //atau
+#define uba_ungkuran resize //ubah ukuran
+#define ungkuran size //ukuran
+#define sarupa == //samadengan
+#define martamba_sada ++ //bertambah satu/increment
+#define lobi % //sisa/mod
+
+#endif // BAHASA_BATAK_H_INCLUDED
